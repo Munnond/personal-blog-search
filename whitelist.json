@@ -1,0 +1,30 @@
+{
+  "sites": [
+    "medium\\.com",
+    "manassaloi\\.com/posts/",
+    "wordpress\\.com", 
+    "blogspot\\.com",
+    "tumblr\\.com",
+    "substack\\.com",
+    "github\\.io",
+    "dev\\.to",
+    "hashnode\\.dev",
+    "\\.blog",
+    "personal\\.blog",
+    "waitbutwhy\\.com",
+    "swyx\\.io",
+    "patrickcollison\\.com",
+    "paulgraham\\.com",
+    "kalzumeus\\.com",
+    "jamesclear\\.com",
+    "fs\\.blog",
+    "collabfund\\.com/blog",
+    "stratechery\\.com",
+    "danluu\\.com",
+    "gwern\\.net",
+    "ribbonfarm\\.com",
+    "overreacted\\.io",
+    "commoncog\\.com",
+    "thesephist\\.com"
+  ]
+}
